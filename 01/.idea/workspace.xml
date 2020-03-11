@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88798ec1-6a7c-4436-a0fd-23c8a080dcd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01/Study01/Week.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01/Study02/ComputationalProblem1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01/Study02/ComputationalProblem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01/Study02/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Study02/ComputationalProblem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Study02/ComputationalProblem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Study02/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01/Study01/EnumTEst2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01/Study01/EnumTEst2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01/Study01/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01/Study01/EnumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01/Study01/SeasonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01/Study01/SeasonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01/Study01/WeekTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Study01/EnumTEst2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Study01/EnumTEst2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Study01/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Study01/EnumTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,46 +32,39 @@
     <session id="1324163809">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1216" />
+          <entry key="java" value="2376" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1216" />
+          <entry key="JAVA" value="2376" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Study01/NineMultiplyNine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Study01/TaoXing.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,29 +104,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Study01/EnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Study01/EnumTEst2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Study01/EnumTEst2.java">
+        <entry file="file://$PROJECT_DIR$/src/Study02/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="295">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Study02/ComputationalProblem1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Study02/ComputationalProblem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -156,8 +181,11 @@
         <option value="$PROJECT_DIR$/src/Study01/OneHundredPerfectNumber.java" />
         <option value="$PROJECT_DIR$/src/Study01/YangHuiTriangle.java" />
         <option value="$PROJECT_DIR$/src/Study01/MyStringStudy.java" />
+        <option value="$PROJECT_DIR$/src/Study02/ComputationalProblem1.java" />
+        <option value="$PROJECT_DIR$/src/Study02/ComputationalProblem2.java" />
         <option value="$PROJECT_DIR$/src/Study01/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/Study01/EnumTEst2.java" />
+        <option value="$PROJECT_DIR$/src/Study02/Test2.java" />
       </list>
     </option>
   </component>
@@ -179,7 +207,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
@@ -221,7 +249,7 @@
               <item name="MyJAVABasicsStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Study01" type="462c0819:PsiDirectoryNode" />
+              <item name="Study02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyJAVABasicsStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -231,15 +259,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583820786626" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583903768183" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -260,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumTEst2">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="EnumTEst2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Study01.EnumTEst2" />
       <module name="01" />
@@ -287,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study01.MyStringStudy" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study02.Test2" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Study01.*" />
+          <option name="PATTERN" value="Study02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,93 +331,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneHundredPerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study01.OneHundredPerfectNumber" />
+    <configuration name="ComputationalProblem1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Study01.*" />
+          <option name="PATTERN" value="Study02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Study02" />
+      <option name="MAIN_CLASS_NAME" value="Study02.ComputationalProblem1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YangHuiTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study01.YangHuiTriangle" />
+    <configuration name="ComputationalProblem2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Study01.*" />
+          <option name="PATTERN" value="Study02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="01" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="01" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="PACKAGE_NAME" value="Study02" />
+      <option name="MAIN_CLASS_NAME" value="Study02.ComputationalProblem2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OneHundredPerfectNumber" />
-      <item itemvalue="Application.YangHuiTriangle" />
-      <item itemvalue="Application.MyStringStudy" />
       <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.EnumTEst2" />
+      <item itemvalue="JUnit.ComputationalProblem1.test" />
+      <item itemvalue="JUnit.ComputationalProblem2.test" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.EnumTEst2" />
         <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.MyStringStudy" />
-        <item itemvalue="Application.YangHuiTriangle" />
-        <item itemvalue="Application.OneHundredPerfectNumber" />
+        <item itemvalue="JUnit.ComputationalProblem2.test" />
+        <item itemvalue="JUnit.ComputationalProblem1.test" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +391,33 @@
       <option name="presentableId" value="Default" />
       <updated>1583755891393</updated>
       <workItem from="1583755895261" duration="2228000" />
-      <workItem from="1583818246719" duration="1891000" />
+      <workItem from="1583818246719" duration="4754000" />
+      <workItem from="1583901562399" duration="2082000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ComputationalProblem1_test - 2020.03.10 at 16h 09m 16s.xml">
+      <configuration name="ComputationalProblem1.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputationalProblem1 - 2020.03.10 at 16h 11m 13s.xml">
+      <configuration name="ComputationalProblem1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputationalProblem1_test - 2020.03.10 at 16h 12m 51s.xml">
+      <configuration name="ComputationalProblem1.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputationalProblem2_test - 2020.03.10 at 16h 19m 36s.xml">
+      <configuration name="ComputationalProblem2.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4119000" />
+    <option name="totallyTimeSpent" value="9064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,7 +435,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -450,23 +455,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Study01.java" />
-    <entry file="file://$PROJECT_DIR$/src/Study01/MinMaxNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Study01/MyStringStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study02.java" />
     <entry file="file://$PROJECT_DIR$/src/Study01/NineMultiplyNine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -478,6 +470,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study01/MinMaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -497,27 +496,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Study01/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study02/ComputationalProblem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study02/ComputationalProblem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study01/MyStringStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Study01/EnumTEst2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Study02/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -2,24 +2,25 @@ package Study01;
 
 public class EnumTEst2 {
     public static void main(String[] args) {
-        WeekTest w=WeekTest.Mondy;
-        System.out.println(w);//Mondy
-        System.out.println(w.getWeekDES());
+        Week week =Week.Monday;
+        System.out.println(week);
+
     }
 }
 
-enum  WeekTest{
+enum Week{
 
-    Mondy("星期一"),
+    Monday("星期一"),
     Tuesday("星期二");
 
-    private  final String weekDES;
 
-    private WeekTest(String weekDES){
-        this.weekDES=weekDES;
+    private final String Weekday;
+
+    private Week(String Weekday){
+        this.Weekday = Weekday;
     }
 
-    public String getWeekDES() {
-        return weekDES;
+    public String getWeekday() {
+        return Weekday;
     }
 }
