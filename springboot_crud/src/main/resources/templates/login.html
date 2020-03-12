@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+    <form  method="post" action="success.html" th:action="@{/user/login}">
+        <p style="color: darkgrey" th:text="${msg}" th:if="not ${#strings.isEmpty(msg)}"/>
+        <table>
+            <tr>
+                <td>用户名</td>
+                <td><input type="text" name="username"></td>
+            </tr>
+            <tr>
+                <td>密码</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="登录"></td>
+            </tr>
+
+        </table>
+    </form>
+</body>
+</html>
